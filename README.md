@@ -1,6 +1,6 @@
 🎓 - Estudando informática no IFPR
 
-🖥️ - Programador( 🔵 C, ☕ Java, 🐍 Python )
+🖥️ - Programador() => 🔵 C, ☕ Java, 🐍 Python;
 
 🎸 - Músico nas horas vagas
 
