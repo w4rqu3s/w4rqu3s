@@ -1,9 +1,15 @@
-# 👨‍💻 Sobre Mim
+# 👋| Bem Vindo!
 
-🎓 - Estudando informática no IFPR
+##  Linguagens:
+[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+## Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=vscode,replit,github,git)](https://skillicons.dev)
 
-🖥️ - Programador() => 🔵 C, ☕ Java, 🐍 Python;
+## Habilidades:
 
-🎸 - Músico nas horas vagas
+* 💡 - Lógica de programação
+* 🖥 - Manutenção de computadores
 
-📫 - E-mail: "w4rqu3s@gmail.com"
+## Aprendendo:
+
+[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,mysql)](https://skillicons.dev)
