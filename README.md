@@ -1,7 +1,7 @@
 # 👋| Bem Vindo!
 
 ##  Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 ## Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,replit,github,git)](https://skillicons.dev)
 
@@ -12,4 +12,4 @@
 
 ## Aprendendo:
 
-[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,dart,flutter,mysql)](https://skillicons.dev)
