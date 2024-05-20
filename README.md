@@ -1,4 +1,4 @@
-# 👋| Bem Vindo!
+# 👋 | Bem Vindo!
 
 ##  Linguagens:
 [![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
