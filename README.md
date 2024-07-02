@@ -3,7 +3,7 @@
 ##  Linguagens:
 [![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 ## Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=vscode,replit,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
 
 ## Habilidades:
 
