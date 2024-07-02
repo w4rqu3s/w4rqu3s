@@ -12,4 +12,4 @@
 
 ## Aprendendo:
 
-[![My Skills](https://skillicons.dev/icons?i=django,dart,flutter,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,mysql)](https://skillicons.dev)
