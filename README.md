@@ -29,12 +29,12 @@ Me chamo Victor, tenho 17 anos e sou estudante de programação. Atualmente, est
 <h2 align="center"> 📕 Atualmente Aprendendo </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
+    <img src="https://skillicons.dev/icons?i=flutter,bash" />
   </a>
 </p>
 
 <h2> 📫 Contato </h2> 
-<h3> 📧 vpecinemarques@gmail.com </h3>
+<h3> ✉️ vpecinemarques@gmail.com </h3>
 
 <!--
   Obrigado por ler até aqui!
