@@ -10,7 +10,7 @@
   />
 </p>
 
-Me chamo Victor, tenho 17 anos e sou estudante de programação. Atualmente, estou fazendo o curso de Técnico em Informática no IFPR.
+Me chamo Victor, tenho 17 anos e sou estudante de programação. Atualmente, estou fazendo o curso de Técnico em Informática no IFPR. Gosto de surfar e tocar guitarra no meu tempo livre.
 
 <h2 align="center"> 🚀 Tecnologias </h2>
 <p align="center">
