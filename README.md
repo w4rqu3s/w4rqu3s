@@ -34,7 +34,7 @@ Me chamo Victor, tenho 17 anos e sou estudante de programação. Atualmente, est
 </p>
 
 <h2> 📫 Contato </h2> 
-<h3> ✉️ vpecinemarques@gmail.com </h3>
+<h3> ✉️ victor.pecine.marquespr@gmail.com </h3>
 
 <!--
   Obrigado por ler até aqui!
